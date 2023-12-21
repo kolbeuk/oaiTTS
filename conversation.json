@@ -1,0 +1,16 @@
+{
+  "conversation": [
+    {
+      "speaker": "alloy",
+      "text": "How are you today?"
+    },
+    {
+      "speaker": "fable",
+      "text": "I'm doing well, thanks!"
+    },
+    {
+      "speaker": "alloy",
+      "text": "Thats nice to hear."
+    }
+  ]
+}
